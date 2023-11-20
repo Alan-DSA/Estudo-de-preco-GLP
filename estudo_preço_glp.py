@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Estudo preço GLP
+"""Estudo preço GLP"""
 
 
 **Dados do GLP**
